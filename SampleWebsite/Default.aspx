@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>POC for CI/CD</h1>
         <p class="lead">POC application for CI/CD using Microsoft Release Management</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+     <%--   <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>--%>
     </div>
 
    <%-- <div class="row">
