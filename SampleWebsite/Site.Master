@@ -63,7 +63,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> -NTT Data Middleware.Demo to Yennam</p>
+                <p>&copy; <%: DateTime.Now.Year %> -NTT Data Middleware.Test for VM and Azure AppServices( 3 environments)</p>
             </footer>
         </div>
 
