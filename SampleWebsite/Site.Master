@@ -63,7 +63,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> -NTT Data Middleware.Demo</p>
+                <p>&copy; <%: DateTime.Now.Year %> -NTT Data Middleware.Demo08282017_1.0</p>
             </footer>
         </div>
 
